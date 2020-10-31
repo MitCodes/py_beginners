@@ -1,4 +1,4 @@
-# Function to generate_AP
+# Function to generate_ArithmeticProgressions
 def generate_AP(a, d, n):
     AP_series = []
     for i in range(1,n+1,1):
